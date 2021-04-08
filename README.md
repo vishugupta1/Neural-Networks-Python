@@ -1,2 +1,2 @@
 # Neural-Networks-Python
-Collection of neural network projects that implement CNN, LTSM, and RNN. 
+Collection of Neural Network projects that implement CNN, LTSM, and RNN. 
